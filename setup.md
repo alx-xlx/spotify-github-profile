@@ -35,7 +35,13 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 
 * Register on [Vercel](https://vercel.com/) (Log in with GitHub)
 
+* Verify and Fill in Your Name etc
+
 * Create project linked to *your* GitHub repo
+(Import Git Repository > Enter the URL of newly forked Repository > Install Vercel on Personal Account)
+
+* Next you will have to specify the directory that contains the source code
+(Select the root directory `` and then proceed to fill in ENV Variables)
 
 * Add Environment Variables:
     * `https://vercel.com/<YourName>/<ProjectName>/settings/environment-variables`

@@ -41,7 +41,7 @@ curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorizat
 (Import Git Repository > Enter the URL of newly forked Repository > Install Vercel on Personal Account)
 
 * Next you will have to specify the directory that contains the source code
-(Select the root directory `` and then proceed to fill in ENV Variables)
+(Select the root directory `spotify-github-profile` and then proceed to fill in ENV Variables)
 
 * Add Environment Variables:
     * `https://vercel.com/<YourName>/<ProjectName>/settings/environment-variables`

@@ -7,5 +7,5 @@
 
 <!-- [<img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>) -->
 
-[<img src="https://spotify-github-profile-henna.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ixoy61gitvs39ap91xdoistl2)
+[<img src="https://spotify-github-profile-henna.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ixoy61gitvs39ap91xdoistl2)
 
